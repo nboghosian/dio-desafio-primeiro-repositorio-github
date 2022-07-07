@@ -8,9 +8,9 @@ Clonar o código;
 
 Ir até a pasta correta e utiliza o GitBash Here para facilitar;
 
-$ git clone ~link copiado~
+$ git clone link_copiado
 
-$ cd ~pasta clonada~ 
+$ cd pasta_clonada
 
 Realizar alterações;
 
@@ -18,13 +18,13 @@ $ ls -> observar os itens listados
 
 $ git status -> vai informar em vermelho que há um novo item não commitado
 
-git add . -> vai add tudo 
+$ git add . -> vai add tudo 
 
-git commit -m "descrição"
+$ git commit -m "descrição"
 
-git status -> vai informar que é necessário realizar o push
+$ git status -> vai informar que é necessário realizar o push
 
-git push origin main
+$ git push origin main
 
 
 
